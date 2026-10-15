@@ -23,7 +23,7 @@ class Pet:
             gain = self.max_energy - self.energy
             self.energy = self.max_energy
             print(f"| Your {self.species} rested well... And gained {gain} energy.")
-
+        #its very similar to last code i wrote, like its got same structure but i can promise you when i was writing it i wasnt looking at the old one its just the schematic that built inside my head pr sum
 pets = {
     "Carlos": Pet("| Carlos. The retired drug dealer from texas.\n Some people say that he is like lizard. No shit maybe because he is one", "Lizard", 90, 100),
     "Diego": Pet("| Diego. Blind vegetarian K2.\n Nobody knows why he is vegatarian, some weird ass lady on tiktok said so.\n She cant be lying right?", "Dog", 200, 500),
