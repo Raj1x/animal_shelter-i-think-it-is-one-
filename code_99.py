@@ -26,7 +26,7 @@ class Pet:
         #its very similar to last code i wrote, like its got same structure but i can promise you when i was writing it i wasnt looking at the old one its just the schematic that built inside my head pr sum
 pets = {
     "Carlos": Pet("| Carlos. The retired drug dealer from texas.\n Some people say that he is like lizard. No shit maybe because he is one", "Lizard", 90, 100),
-    "Diego": Pet("| Diego. Blind vegetarian K2.\n Nobody knows why he is vegatarian, some weird ass lady on tiktok said so.\n She cant be lying right?", "Dog", 200, 500),
+    "Diego": Pet("| Diego. Blind vegetarian ex K9.\n Nobody knows why he is vegatarian, some weird ass lady on tiktok said so.\n She cant be lying right?", "Dog", 200, 500),
     "Enrique": Pet("| Enrique. No one knows what the fuck accualy it is, but looks like it is not from the Earth", "Alien (Probably)", 999, 1000)
 }
 
